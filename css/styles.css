@@ -1,6 +1,6 @@
 *{color: black;
 
-border-radius: 20px;
+
 
 }
 
@@ -118,6 +118,8 @@ font-weight: bold;
 }
 .bye {
   border: 2px solid black;
+
+  border-radius: 20px;
   margin-bottom: 20px;
   margin-right: 40px;
   margin-left:40px;
